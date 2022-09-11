@@ -26,7 +26,7 @@ blockquote{width:400px;min-height:50px;/*background:var(--warna-bg);border-right
 blockquote p{margin-left:45px;margin-right:45px;font-size:19px;font-weight:700;line-height:1.4em;text-shadow: 0px 2px 2px rgba(0, 0, 0, .8);transition:all .8s ease;}
 
 /*#kalimata{margin-left:48px;margin-right:48px;}*/
-#kalimatb{font-size:18px;font-weight:400;}
+#kalimatc{font-size:18px;font-weight:400;}
 
 #Content img{display:none;background:rgba(240,240,240,1);box-shadow: rgba(255,255,255, 0.3) 0px 7px 29px 0px;border-radius:8%;padding:10px;height:100px;width:100px;margin:20px 0 10px 0;}
 #fotoakhir{margin-bottom:15px;transition:all .8s ease;transform: scale(.1);}
